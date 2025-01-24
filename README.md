@@ -1,2 +1,3 @@
 # curso-tabnews
+
 Curso dev!
